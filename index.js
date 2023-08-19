@@ -1,1 +1,3 @@
 "Config inicial"
+
+"Cambio dari"
